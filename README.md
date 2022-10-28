@@ -45,7 +45,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+  
     <a href="https://github.com/0xKayala"><img alt="Satya Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xKayala&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/0xKayala"><img alt="Satya Prakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKayala&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=false&bg_color=0D1117" /></a>
   <br/>
