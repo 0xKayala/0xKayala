@@ -24,9 +24,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://portswigger.net/burp/pro" target="_blank"> <img src="https://portswigger.net/content/images/svg/icons/professional.svg" alt="burpsuite" width="48" height="48"/> </a>
+    <a style="padding-right:8px;" href="https://portswigger.net/burp/pro" target="_blank"> <img src="https://portswigger.net/content/images/svg/icons/professional.svg" alt="burpsuite" width="42" height="42"/> </a>
     <a href="https://www.zaproxy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6716868?s=200&v=4" alt="owaspzap" width="48" height="48"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://nmap.org/" target="_blank"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="50" height="50"/> </a> 
 </p>
      
 
