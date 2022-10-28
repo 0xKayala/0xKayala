@@ -52,13 +52,11 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
 <a href="https://github.com/0xKayala"><img alt="Satya Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xKayala&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
-<br/>
 <br/>
 
 ## Connect with me:
@@ -68,7 +66,6 @@
 
 <a href = "https://www.linkedin.com/in/0xKayala/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/0xKayala"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 
 </p>
 
