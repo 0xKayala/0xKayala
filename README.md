@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **kayalasatyaprakash@gmail.com**
+- 📫 How to reach me **0xKayala@gmail.com**
 
 - ⚡ Fun fact **I enjoy learning new tools and growing together..**
 
