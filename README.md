@@ -6,17 +6,15 @@
 
 - 🔭 I'm an **Information Security** Enthusiast.
 
-- 🔭 I'm an **Certified Ethical Hacker (Practical)** by EC-Council.**
+- 🔭 I'm an **Certified Ethical Hacker (Practical)** by EC-Council.
 
 - 🌱 I'm currently preparing for **eJPT**
 
 - 👯 I’m actively looking to collaborate on **Bug Hunting Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
 - 📫 How to reach me **0xKayala@gmail.com**
 
-- ⚡ Fun fact **I enjoy learning new tools and growing together..**
+- ⚡ Fun fact **I enjoy Playing CTF and Pwn Machines on HTB and THM..**
 
 ## 🚀 Languages and Tools:
 
