@@ -27,8 +27,9 @@
     <a style="padding-right:8px;" href="https://portswigger.net/burp/pro" target="_blank"> <img src="https://portswigger.net/content/images/svg/icons/professional.svg" alt="burpsuite" width="42" height="42"/> </a>
     <a href="https://www.zaproxy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6716868?s=200&v=4" alt="owaspzap" width="48" height="48"/> </a>
     <a href="https://www.kali.org/tools/nikto/" target="_blank"> <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="nikto" width="50" height="50"/> </a>
+    <a href="https://www.kali.org/tools/whatweb/" target="_blank"> <img src="https://www.kali.org/tools/whatweb/images/whatweb-logo.svg" alt="whatweb" width="50" height="50"/> </a>
     <a href="https://nmap.org/" target="_blank"> <img src="https://nmap.org/images/sitelogo-nmap-1680x900.png" alt="nmap" width="85" height="55"/> </a>
-    <a href="https://www.kali.org/tools/sqlmap/" target="_blank"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="nikto" width="80" height="65"/> </a>
+    <a href="https://www.kali.org/tools/sqlmap/" target="_blank"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="80" height="65"/> </a>
 </p>
      
 
