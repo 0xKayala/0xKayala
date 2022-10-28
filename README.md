@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Satya Prakash</h1>
-<h3 align="center">I'm Passionate about Web Application Penetration Testing. <h3>
+<h3 align="center">I'm Passionate about Web Application Penetration Testing<h3>
 
 ## 🙋‍♂️ About Me
 
@@ -8,9 +8,9 @@
 
 - 🔭 I'm an **Certified Ethical Hacker (Practical)** by EC-Council.
 
-- 🌱 I'm currently preparing for **eJPT**
+- 🌱 I'm currently preparing for **eJPT**.
 
-- 👯 I’m actively looking to collaborate on **Bug Hunting Projects**
+- 👯 I’m actively looking to collaborate on **Bug Hunting Projects**.
 
 - 📫 How to reach me **0xKayala@gmail.com**
 
