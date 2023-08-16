@@ -20,10 +20,11 @@
 
 - [NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - A Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc. vulnerabilities in Web Applications
 - [OpenRedirector](https://github.com/0xKayala/OpenRedirector) - A powerful automation tool for detecting Open Redirect vulnerabilities in web applications
+- [Shodanizer](https://github.com/0xKayala/Shodanizer) - A Utility to automate Shodan scans for quick vulnerability insights on IPs and domains
 
 ## Knowledge Bases 💡
 
-- [A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Application and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
+- [A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Applications and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
 
 ## 🚀 Languages and Tools:
 
