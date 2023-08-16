@@ -18,7 +18,7 @@
 
 ## Projects 🏗️
 
-- 
+- [NucleiFuzzer](#https://github.com/0xKayala/NucleiFuzzer)
 
 ## 🚀 Languages and Tools:
 
