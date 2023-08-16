@@ -18,7 +18,7 @@
 
 ## Projects 🏗️
 
-- [NucleiFuzzer](#https://github.com/0xKayala/NucleiFuzzer)
+- [NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - A Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc. vulnerabilities in Web Applications
 
 ## 🚀 Languages and Tools:
 
