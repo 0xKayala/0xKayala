@@ -25,6 +25,7 @@
 ## Knowledge Bases 💡
 
 - [A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Applications and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
+- [Networking Key Terminology](https://github.com/0xKayala/Networking-Key-Terminology) - Networking Key Terminologies
 
 ## 🚀 Languages and Tools:
 
