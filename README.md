@@ -24,6 +24,7 @@
 
 ## Knowledge Bases 💡
 
+- [Bug Bounty Templates](https://0xkayala.github.io/bugbounty/) - A Curated templates of various vulnerabilities of Bug Bounty Hunting
 - [A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Applications and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
 - [Common Protocols](https://github.com/0xKayala/Common-Protocols) - A Dictionary of Common-Protocols such as TCP, UDP, ICMP and VoIP
 - [Networking Key Terminology](https://github.com/0xKayala/Networking-Key-Terminology) - Networking Key Terminologies
