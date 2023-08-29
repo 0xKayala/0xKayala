@@ -76,6 +76,10 @@
 <a href="https://github.com/0xKayala"><img alt="Satya Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xKayala&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=0xKayala"></a>
+<a href="https://github.com/0xKayala?tab=followers"><img src="https://img.shields.io/github/followers/0xKayala?label=Followers&style=social" alt="GitHub Badge"></a>
+
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/0xkayala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xkayala" height="30" width="40" /></a>
@@ -85,11 +89,7 @@
 <a href="https://medium.com/@0xkayala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xkayala" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@0xkayala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="0xkayala" height="30" width="40" /></a>
 </p>
-
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=0xKayala">
-</a>
-<a href="https://github.com/0xKayala?tab=followers"><img src="https://img.shields.io/github/followers/0xKayala?label=Followers&style=social" alt="GitHub Badge"></a>
+## Support me:
+<p><a href="https://www.buymeacoffee.com/satyakayala"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="satyakayala" /></a></p><br><br>
