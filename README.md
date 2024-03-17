@@ -12,7 +12,7 @@
 
 - 👯 I’m actively looking to collaborate on **Bug Hunting Projects**.
 
-- 📫 How to reach me **0xKayala@gmail.com**
+- 📫 How to reach me **0xKayala@wearehackerone.com**
 
 - ⚡ Fun fact **I enjoy Playing CTF and Pwn Machines on HTB and THM..**
 
