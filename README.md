@@ -21,6 +21,7 @@
 - [NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - A Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc. vulnerabilities in Web Applications
 - [OpenRedirector](https://github.com/0xKayala/OpenRedirector) - A powerful automation tool for detecting Open Redirect vulnerabilities in web applications
 - [Shodanizer](https://github.com/0xKayala/Shodanizer) - A Utility to automate Shodan scans for quick vulnerability insights on IPs and domains
+- [NetFuzzer](https://github.com/0xKayala/NetFuzzer) - NetFuzzer is a comprehensive network security assessment tool for internal and external networks, including Firewalls, Routers, Switches, Active Directory, SMBs, Printers, etc.
 
 ## Knowledge Bases 💡
 
