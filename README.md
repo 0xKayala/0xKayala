@@ -18,10 +18,12 @@
 
 ## Projects 🏗️
 
-- [NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - A Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc. vulnerabilities in Web Applications
-- [OpenRedirector](https://github.com/0xKayala/OpenRedirector) - A powerful automation tool for detecting Open Redirect vulnerabilities in web applications
-- [Shodanizer](https://github.com/0xKayala/Shodanizer) - A Utility to automate Shodan scans for quick vulnerability insights on IPs and domains
+- [NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - A Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc. vulnerabilities in Web Applications.
+- [OpenRedirector](https://github.com/0xKayala/OpenRedirector) - A Powerful automation tool for detecting Open Redirect vulnerabilities in web applications.
+- [NucleiScanner](https://github.com/0xKayala/NucleiScanner) - A Powerful Automation tool for detecting unknown vulnerabilities in Web Applications.
+- [Shodanizer](https://github.com/0xKayala/Shodanizer) - A Utility to automate Shodan scans for quick vulnerability insights on IPs and domains.
 - [NetFuzzer](https://github.com/0xKayala/NetFuzzer) - NetFuzzer is a comprehensive network security assessment tool for internal and external networks, including Firewalls, Routers, Switches, Active Directory, SMBs, Printers, etc.
+- [JaelesFuzzer](https://github.com/0xKayala/JaelesFuzzer) - A Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications.
 
 ## Knowledge Bases 💡
 
