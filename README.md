@@ -27,6 +27,7 @@
 
 ## Knowledge Bases 💡
 
+- [OWASP Secure Coding Checklist](https://github.com/0xKayala/OWASP-Secure-Coding-Checklist) - This is a Checklist of OWASP Secure Coding Practices.
 - [Custom Nuclei Templates](https://github.com/0xKayala/Custom-Nuclei-Templates) - A Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Bug Bounty Templates](https://0xkayala.github.io/bugbounty/) - A Curated templates of various vulnerabilities of Bug Bounty Hunting
 - [A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Applications and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
