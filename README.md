@@ -8,7 +8,7 @@
 
 - 🔭 I'm an **Certified Ethical Hacker (Practical)** by EC-Council.
 
-- 🌱 I'm currently preparing for **OSCP**.
+- 🌱 I'm currently preparing for **CRTP** & **OSCP**.
 
 - 👯 I’m actively looking to collaborate on **Bug Hunting Projects**.
 
