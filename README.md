@@ -14,9 +14,9 @@
 
 - 👯 I’m actively looking to collaborate on **Bug Hunting Projects**.
 
-- 📫 How to reach me **0xKayala@wearehackerone.com**
+- 📫 How to reach me **Admin@0xKayala.com**
 
-- ⚡ Fun fact **I enjoy Playing CTF and Pwn Machines on HTB and THM..**
+- ⚡ Fun fact **I enjoy Playing CTF and Pwn Machines on HTB and THM.**
 
 ## Projects 🏗️
 
@@ -30,9 +30,9 @@
 ## Knowledge Bases 💡
 
 - [OWASP Secure Coding Checklist](https://github.com/0xKayala/OWASP-Secure-Coding-Checklist) - This is a Checklist of OWASP Secure Coding Practices.
-- [Custom Nuclei Templates](https://github.com/0xKayala/Custom-Nuclei-Templates) - A Community curated list of templates for the nuclei engine to find security vulnerabilities.
-- [Bug Bounty Templates](https://0xkayala.github.io/bugbounty/) - A Curated templates of various vulnerabilities of Bug Bounty Hunting
-- [A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Applications and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
+- [Custom Nuclei Templates](https://github.com/0xKayala/Custom-Nuclei-Templates) - A community-curated list of templates for the nuclei engine to find security vulnerabilities.
+- [Bug Bounty Templates](https://0xkayala.github.io/bugbounty/) - A curated set of templates for various vulnerabilities of Bug Bounty Hunting
+- [A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Applications and Network Security Vulnerabilities and other security concepts in alphabetical order
 - [Common Protocols](https://github.com/0xKayala/Common-Protocols) - A Dictionary of Common-Protocols such as TCP, UDP, ICMP and VoIP
 - [Networking Key Terminology](https://github.com/0xKayala/Networking-Key-Terminology) - Networking Key Terminologies
 
